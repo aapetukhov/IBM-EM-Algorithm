@@ -2,6 +2,7 @@
 *.tar.gz
 *.zip
 *.npy
+*.gz
 
 # данные
 czeng05/
