@@ -1,15 +1,11 @@
 torch==2.2.0
-torchvision==0.17.0
-torchaudio==2.2.0
 soundfile
 numpy==1.26.4
-torch_audiomentations
 seaborn
 tqdm
 matplotlib
 pandas
 wandb
-comet_ml
 hydra-core
 
 black
@@ -17,6 +13,4 @@ isort
 pre-commit
 editdistance
 wget
-pyctcdecode
-flashlight-text
-kenlm
+
